@@ -19,6 +19,7 @@ Add this to your `Cargo.toml`:
 ```toml
 [dependencies]
 hamming-rs = { git = "https://github.com/jesper-olsen/hamming-rs" }
+```
 
 ## Performance
 
