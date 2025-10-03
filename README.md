@@ -52,4 +52,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- Richard Hamming for the original error-correcting code algorithm (1950)
+- [Richard Hamming](https://youtu.be/BZh07Ew32UA?si=DznrStL0qb2dnWeA) for the original error-correcting code algorithm (1950)
